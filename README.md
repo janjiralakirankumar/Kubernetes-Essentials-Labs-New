@@ -11,12 +11,12 @@
      - VPC ID, Subnet ID, Security group ID, KeyPair Name.
 
 ## Table Of Contents
-* [Lab-1: Cluster Setup using Kops](https://github.com/ssamatkar/k8s-cheatsheet/blob/main/Cluster%20Setup%20using%20Kops.md)
-* [Lab-2: Namespace and Pods in Kubernetes](https://github.com/ssamatkar/k8s-cheatsheet/blob/main/Namespace%20and%20Pods%20in%20Kubernetes.md)
-* [Lab-3: Services in Kubernetes](https://github.com/ssamatkar/k8s-cheatsheet/blob/main/Services%20in%20Kubernetes.md)
-* [Lab-4: Deployment](https://github.com/ssamatkar/k8s-cheatsheet/blob/main/Deployment.md)
-* [Lab-5: DaemonSet](https://github.com/ssamatkar/k8s-cheatsheet/blob/main/DaemonSet.md)
-* [Lab-6: StatefulSet](https://github.com/ssamatkar/k8s-cheatsheet/blob/main/StatefulSet.md)
-* [Lab-7: HostPath and EmptyDir](https://github.com/ssamatkar/k8s-cheatsheet/blob/main/hostPath%20and%20emptyDir.md)
-* [Lab-8: Persistent Volume and Persistent Volume Claim](https://github.com/ssamatkar/k8s-cheatsheet/blob/main/Persistent%20Volume%20and%20Persistent%20Volume%20Claim.md)
-* [Reference Links](https://github.com/ssamatkar/k8s-cheatsheet/blob/main/Reference%20Links.md)
+* [Lab-1: Cluster Setup using Kops](https://github.com/janjiralakirankumar/Kubernetes-Essentials-Labs-New/blob/main/Kops%20Cluster%20Creation.md)
+* [Lab-2: Namespace and Pods in Kubernetes](https://github.com/janjiralakirankumar/Kubernetes-Essentials-Labs-New/blob/main/Namespace%20and%20Pods%20in%20Kubernetes.md)
+* [Lab-3: Services in Kubernetes](https://github.com/janjiralakirankumar/Kubernetes-Essentials-Labs-New/blob/main/Services%20in%20Kubernetes.md)
+* [Lab-4: Deployment](https://github.com/janjiralakirankumar/Kubernetes-Essentials-Labs-New/blob/main/Deployment.md)
+* [Lab-5: DaemonSet](https://github.com/janjiralakirankumar/Kubernetes-Essentials-Labs-New/blob/main/DaemonSet.md)
+* [Lab-6: StatefulSet](https://github.com/janjiralakirankumar/Kubernetes-Essentials-Labs-New/blob/main/StatefulSet.md)
+* [Lab-7: HostPath and EmptyDir](https://github.com/janjiralakirankumar/Kubernetes-Essentials-Labs-New/blob/main/HostPath%20and%20EmptyDir.md)
+* [Lab-8: Persistent Volume and Persistent Volume Claim](https://github.com/janjiralakirankumar/Kubernetes-Essentials-Labs-New/blob/main/Persistent%20Volume%20and%20Persistent%20Volume%20Claim.md)
+* [Reference Links](https://github.com/janjiralakirankumar/Kubernetes-Essentials-Labs-New/blob/main/Reference%20Links.md)
