@@ -1,6 +1,4 @@
 # Kubernetes-Essentials-Labs-New
-
-# Kubernetes-Essentials-Labs-New
 ---
 ## Cluster Setup using Kops
 
@@ -511,9 +509,9 @@ Get information about the Kubernetes nodes in the cluster
 kubectl get nodes
 ```
 ##### (Optional)
-To scale out the node, execute the below command. Replace the `nodes-us-east-2a.mehar-2024-03-19-16-03.k8s.local` with the auto-scaling group (master or worker) in your case and also replace `region` with your region. MAke sure the Max capacity of the Auto Scaling Group is above or equal to the number you are trying to scale to.
+To scale out the node, execute the below command. Replace the `nodes-us-east-2a.kiran-2024-03-19-16-03.k8s.local` with the auto-scaling group (master or worker) in your case and also replace `region` with your region. MAke sure the Max capacity of the Auto Scaling Group is above or equal to the number you are trying to scale to.
 ```
-aws autoscaling update-auto-scaling-group --auto-scaling-group-name nodes-us-east-2a.mehar-2024-03-19-16-03.k8s.local --desired-capacity 3 --region us-east-2
+aws autoscaling update-auto-scaling-group --auto-scaling-group-name nodes-us-east-2a.kiran-2024-03-19-16-03.k8s.local --desired-capacity 3 --region us-east-2
 ```
 ##### Run the below command if you are not able to retrieve the data. The below command comes in handy if you have downscaled your cluster and have scaled it up again. 
 ```
