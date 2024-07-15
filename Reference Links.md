@@ -1,5 +1,5 @@
 1. [Bible of Kubernetes](https://kubernetes.io/docs/home/)
-2. [Kubectl Cheat Sheet](https://kubernetes.io/pt-br/docs/reference/kubectl/cheatsheet/)
+2. [Kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/quick-reference/)
 3. [Services](https://kubernetes.io/docs/concepts/services-networking/service/)
 4. [Deployment](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
 5. [DaemonSet](https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/)
