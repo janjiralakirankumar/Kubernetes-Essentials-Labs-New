@@ -22,6 +22,10 @@ To describe a namespace
 ```
 kubectl describe ns kube-system
 ```
+To delete a NameSpace execute below command
+```
+kubectl delete test-ns
+```
 ---
 ## Pod in Kubernetes
 
