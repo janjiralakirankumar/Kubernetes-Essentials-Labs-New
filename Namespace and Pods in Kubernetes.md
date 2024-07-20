@@ -2,11 +2,15 @@
 
 ### Task 1: Understanding Namespace commands
 
+First List the namespaces that are already available.
+```
+kubectl get ns
+```
 To create a namespace
 ```
 kubectl create ns test-ns
 ```
-To list all the available namespaces
+To list all the available namespaces along with newly created
 ```
 kubectl get ns
 ```
@@ -18,11 +22,10 @@ To describe a namespace
 ```
 kubectl describe ns kube-system
 ```
-
-
+---
 ## Pod in Kubernetes
 
-### Task 2: Create a pod using below Commands
+### Task 1: Create a pod using below Commands
 ```
 kubectl run pod-1 --image nginx --port 80 
 ```
@@ -41,8 +44,7 @@ Generate spec for running pod nginx and write it into a file called pod.yaml
 ```
 kubectl run nginx --image=nginx --dry-run=client -o yaml > pod.yaml
 ``` 
-
-### Task 3: Create a pod using below yaml
+### Task 2: Create a pod using below yaml
 To check the version of the Object you are creating
 ```
 kubectl api-resources
