@@ -13,5 +13,4 @@
 * [Lab-5: DaemonSet](https://github.com/janjiralakirankumar/Kubernetes-Essentials-Labs-New/blob/main/5.%20DaemonSet.md)
 * [Lab-6: Persistent Volume and Persistent Volume Claim](https://github.com/janjiralakirankumar/Kubernetes-Essentials-Labs-New/blob/main/6.%20Persistent%20Volume%20and%20Persistent%20Volume%20Claim.md)
 * [Lab-7: StatefulSet](https://github.com/janjiralakirankumar/Kubernetes-Essentials-Labs-New/blob/main/7.%20StatefulSet.md)
-* [Lab-8: HostPath and EmptyDir](https://github.com/janjiralakirankumar/Kubernetes-Essentials-Labs-New/blob/main/8.%20HostPath%20and%20EmptyDir.md)
 * [Reference Links](https://github.com/janjiralakirankumar/Kubernetes-Essentials-Labs-New/blob/main/Reference%20Links.md)
